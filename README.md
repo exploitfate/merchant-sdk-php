@@ -1,5 +1,8 @@
 # PayPal PHP Merchant SDK
 
+There is alternate fork
+https://packagist.org/packages/jpranskaitis/sdk-core-php
+
    The merchant SDK can be used for integrating with the Express Checkout, Mass Pay, Web Payments Pro APIs.
 
 ## TLSv1.2 Update
